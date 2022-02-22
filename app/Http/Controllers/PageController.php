@@ -16,3 +16,4 @@ class PageController extends Controller
         return "Article Pages with Id" .$id;
     }
 }
+
